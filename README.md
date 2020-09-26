@@ -111,7 +111,7 @@ python manage.py flush
 
 ## Task Board
 
-
+https://lhinh.atlassian.net/jira/software/projects/DEV/boards/1
 
 ---
 
