@@ -1,0 +1,23 @@
+{
+  "name": "devalot",
+  "version": "1.0.0",
+  "description": "rly alot web dev",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhinh/devalot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhinh/devalot/issues"
+  },
+  "homepage": "https://github.com/lhinh/devalot#readme"
+}
