@@ -18,8 +18,6 @@
 ## Requirements
 
 - Python     >= 3.8.5
-- Pip3       >= 20.2.3
-- Virtualenv >= 20.0.31
 - Django     >= 3.1.1
 
 ---
